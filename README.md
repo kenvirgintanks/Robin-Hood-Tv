@@ -221,4 +221,4 @@ Robin Hood TV is a free software add-on for Kodi with all features and updates i
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-14 19:00:32 UTC
+**Last updated:** 2026-10-14 22:46:53 UTC
